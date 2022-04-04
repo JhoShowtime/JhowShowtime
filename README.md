@@ -1,6 +1,5 @@
-
 Estudando Tecnico informatica Sesi Senai 
-## Olá meu nome é JhonSowtime , criador de conteúdo de programação e tecnologia!
+## Olá meu nome é JhoSowtime , criador de conteúdo de programação e tecnologia!
 <div align="center">
   
 </div>
