@@ -1,5 +1,5 @@
-Estudando Tecnico informatica Sesi Senai 
-## Olá meu nome é Jhonatan Guedes , desenvolvedor front-end 
+Estudando Tecnologia da informação Senai 
+## Olá meu nome é Jhonatan Guedes , Desenvolvedor Web
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
