@@ -8,8 +8,7 @@ Estudando Tecnico informatica Sesi Senai
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="" height="30" width="40" src="![image](https://user-images.githubusercontent.com/101908791/207401767-21b8c95a-b9d5-481f-bede-262a22ca5b19.png)
-">
+   <img align="center" alt="" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 </div>
   
 ##
